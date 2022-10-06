@@ -1,0 +1,64 @@
+.tudo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0px;
+  gap: 64px;
+  position: absolute;
+  height: 2111px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+}
+
+.topo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  width: 1440px;
+  height: 467px;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  }
+
+main ul li{
+  text-decoration: none;
+}
+
+.fale_conosco {
+    margin-top: 300px;
+    width: 1312px;
+    padding: 64px;
+    height: 368px;
+    background: #EAF2FD;
+    display: flex;
+    text-align: center;
+
+}
+
+.footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  gap: 10px;
+
+  width: 1378px;
+  height: 80px;
+  position: absolute;
+  /* Preto/branco */
+
+  background: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+  margin-top: 2113px;
+}

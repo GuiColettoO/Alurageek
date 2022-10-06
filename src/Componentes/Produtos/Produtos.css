@@ -1,0 +1,45 @@
+.produto-container{
+    height: 281px;
+    padding: 10px;
+}
+
+.produto-container__nome{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;    
+    color: #464646;
+}
+
+.produto-container__preco{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #464646;
+    display: block;
+}
+
+.produto-container__ver-produto{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    text-decoration: none;
+    
+    /* Azul/100% */
+    
+    color: #2A7AE4;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.produto-container__img{
+    width: 181px;
+    height: 189px;
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 1;
+}

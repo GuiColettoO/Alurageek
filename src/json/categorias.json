@@ -1,0 +1,107 @@
+[
+    {
+        "nome": "Star Wars",
+        "produtos": [
+            {
+                "nome": "Produto 1",
+                "preco": 100,
+                "imagem":"star-wars-1.png"
+            },
+            {
+                "nome": "Produto 2",
+                "preco": 60,
+                "imagem":"star-wars-2.png" 
+            },
+            {
+                "nome": "Produto 3",
+                "preco": 225,
+                "imagem":"star-wars-3.png"
+            },
+            {
+                "nome": "Produto 4",
+                "preco": 100,
+                "imagem":"star-wars-4.png"
+            },
+            {
+                "nome": "Produto 5",
+                "preco": 323,
+                "imagem":"star-wars-5.png"
+            },
+            {
+                "nome": "Produto 6",
+                "preco": 100,
+                "imagem":"star-wars-6.png"
+            }
+        ]
+    },
+    {
+        "nome": "Console",
+        "produtos": [
+            {
+                "nome": "Produto 1",
+                "preco": 100,
+                "imagem":"console-1.png"
+            },
+            {
+                "nome": "Produto 2",
+                "preco": 60,
+                "imagem":"console-2.png" 
+            },
+            {
+                "nome": "Produto 3",
+                "preco": 225,
+                "imagem":"console-3.png"
+            },
+            {
+                "nome": "Produto 4",
+                "preco": 100,
+                "imagem":"console-4.png"
+            },
+            {
+                "nome": "Produto 5",
+                "preco": 323,
+                "imagem":"console-5.png"
+            },
+            {
+                "nome": "Produto 6",
+                "preco": 100,
+                "imagem":"console-6.png"
+            }
+        ]
+    },
+    {
+        "nome": "Diversos",
+        "produtos": [
+            {
+                "nome": "Produto 1",
+                "preco": 100,
+                "imagem":"diversos-1.png"
+            },
+            {
+                "nome": "Produto 2",
+                "preco": 60,
+                "imagem":"diversos-2.png" 
+            },
+            {
+                "nome": "Produto 3",
+                "preco": 225,
+                "imagem":"diversos-3.png"
+            },
+            {
+                "nome": "Produto 4",
+                "preco": 100,
+                "imagem":"diversos-4.png"
+            },
+            {
+                "nome": "Produto 5",
+                "preco": 323,
+                "imagem":"diversos-5.png"
+            },
+            {
+                "nome": "Produto 6",
+                "preco": 100,
+                "imagem":"diversos-6.png"
+            }
+        ]
+    }
+]
